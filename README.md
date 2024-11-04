@@ -1,7 +1,7 @@
 # Kimia Farma - Big Data Analytics
 
-## Deskripsi Proyek
-Proyek ini bertujuan untuk mengevaluasi kinerja bisnis Kimia Farma dari tahun 2020 hingga 2023 dengan memanfaatkan analisis data yang mendalam. Melalui penggunaan teknik Big Data Analytics, kami berusaha untuk mendapatkan wawasan yang mendukung pengambilan keputusan strategis perusahaan.
+## Deskripsi Projek
+projek ini bertujuan untuk mengevaluasi kinerja bisnis Kimia Farma dari tahun 2020 hingga 2023 dengan memanfaatkan analisis data yang mendalam. Melalui penggunaan teknik Big Data Analytics, kami berusaha untuk mendapatkan wawasan yang mendukung pengambilan keputusan strategis perusahaan.
 
 ## Latar Belakang Perusahaan
 Kimia Farma adalah perusahaan farmasi terkemuka di Indonesia yang didirikan pada tahun 1817. Sebagai perusahaan pelat merah, Kimia Farma berperan dalam produksi dan distribusi produk farmasi, alat kesehatan, serta pelayanan kesehatan seperti apotek, laboratorium klinik, dan klinik kesehatan. Perusahaan ini berkomitmen untuk mendukung kesehatan masyarakat Indonesia melalui inovasi produk berkualitas dan jaringan distribusi yang luas, dengan visi menjadi perusahaan healthcare pilihan di Asia Tenggara.
@@ -10,7 +10,7 @@ Kimia Farma adalah perusahaan farmasi terkemuka di Indonesia yang didirikan pada
 - **Bahasa Pemrograman**: SQL
 - **Analisis Data**: BigQuery, Looker Studio
 
-## Proses Proyek
+## Proses Projek
 1. **Mengimpor Dataset ke BigQuery**
    - Mengupload tabel data yang diperlukan untuk analisis.
 2. **Membuat Tabel Analisis**
